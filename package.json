@@ -1,0 +1,17 @@
+{
+  "name": "vk-ai-bot",
+  "version": "1.0.0",
+  "description": "VK бот для AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "vk-io": "^4.7.0",
+    "openai": "^4.20.0",
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": ["vk", "bot", "ai", "sqlite"],
+  "author": "Ruslan-Isaev",
+  "license": "GNU GPL 3"
+}
